@@ -1,0 +1,22 @@
+{
+ "_note": "Free CapCut text animations. resource_id values come from drafts CapCut saved; 'effect' is how our preview imitates each one.",
+ "in": [
+  {"key": "fade_in",    "name": "Fade In",     "resource_id": "6724916044072227332", "duration": 0.5,  "effect": "fade"},
+  {"key": "slide_up",   "name": "Slide Up",    "resource_id": "6763470111253729803", "duration": 0.35, "effect": "slide_up"},
+  {"key": "slide_right","name": "Slide Right", "resource_id": "6724920136056181256", "duration": 0.3,  "effect": "slide_right"},
+  {"key": "slide_left", "name": "Slide Left",  "resource_id": "7403255792146584081", "duration": 0.3,  "effect": "slide_left"},
+  {"key": "pop_up",     "name": "Pop Up",      "resource_id": "7145435525799744002", "duration": 0.3,  "effect": "pop"},
+  {"key": "pop_in",     "name": "Pop In",      "resource_id": "7648937452383587604", "duration": 0.3,  "effect": "pop"},
+  {"key": "blur_in",    "name": "Blur",        "resource_id": "6923135604519604737", "duration": 0.3,  "effect": "fade"},
+  {"key": "typewriter", "name": "Typewriter",  "resource_id": "7210980292243231233", "duration": 0.8,  "effect": "type"}
+ ],
+ "out": [
+  {"key": "fade_out",   "name": "Fade Out",     "resource_id": "6724919382104871427", "duration": 0.5,  "effect": "fade"},
+  {"key": "blur_out",   "name": "Blur",         "resource_id": "6923134492760609282", "duration": 0.25, "effect": "fade"},
+  {"key": "text_fade",  "name": "Text Fade",    "resource_id": "7646372829113371912", "duration": 0.5,  "effect": "fade"},
+  {"key": "slide_drop", "name": "Sliding Drop", "resource_id": "7511931646191340817", "duration": 0.5,  "effect": "drop"}
+ ],
+ "loop": [
+  {"key": "flash",      "name": "Flash",        "resource_id": "6724921437930394120", "duration": 0.25, "effect": "flash"}
+ ]
+}
